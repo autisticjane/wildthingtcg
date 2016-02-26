@@ -10,7 +10,7 @@ $skins_dir = 'skins/';
  Set this variable to a cookie name of your choice, for visitors to
  not keep changing skins when they visit your site.
 ******************************************************************************/
-$cookie_name = 'twig_skin';
+$cookie_name = 'wt_skin';
 
 /******************************************************************************
  This variable is optional.
